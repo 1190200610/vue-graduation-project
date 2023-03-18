@@ -8,7 +8,7 @@ export default [
     meta: {
       title: "登录",
       showLink: false,
-      rank: 101
+      rank: 1
     }
   },
   {
